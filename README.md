@@ -152,8 +152,4 @@ Successfully implemented a production-style GitOps pipeline using ArgoCD and AWS
 
 ## Author
 
-Riyaj Kalawant
-## Author
-
-Riyaj Kalawant
-vv
+Bhumika Mahale
