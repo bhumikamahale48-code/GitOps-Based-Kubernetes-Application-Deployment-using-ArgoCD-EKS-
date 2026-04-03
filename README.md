@@ -68,11 +68,6 @@ DockerHub
 
 <img width="736" height="185" alt="image" src="https://github.com/user-attachments/assets/611e8478-810a-4864-b50b-f6a3fba1137d" />
 
-
-### Pods Running
-
-Pods
-
 ### Service (LoadBalancer)
 
 <img width="857" height="159" alt="image" src="https://github.com/user-attachments/assets/36ea7602-d8c0-4722-befb-7f0163dd49f6" />
