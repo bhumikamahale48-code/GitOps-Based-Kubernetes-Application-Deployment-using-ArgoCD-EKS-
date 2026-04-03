@@ -1,4 +1,4 @@
-# GitOps-Based Kubernetes Application Deployment using ArgoCD (EKS)
+# GitOps-Based Kubernetes Application Deployment using ArgoCD (EKS) 
 
 ## Project Overview
 
