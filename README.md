@@ -53,7 +53,9 @@ DockerHub
 
 GitHub
 
----
+<img width="848" height="394" alt="image" src="https://github.com/user-attachments/assets/312f02ad-e2f9-4f71-81f3-66bcf00ee67f" />
+
+
 
 ## ArgoCD Setup
 
@@ -61,17 +63,23 @@ GitHub
 
 ArgoCD
 
+<img width="870" height="424" alt="image" src="https://github.com/user-attachments/assets/8fdb2fc9-43b5-4268-bfe4-3f5c7fdf8b9d" />
+
+
 ### Auto Sync Enabled
 
-Auto Sync
+<img width="843" height="424" alt="image" src="https://github.com/user-attachments/assets/9275a7b5-5b40-479b-ba82-80e9a9994c39" />
+
 
 ### Sync Details
 
-Sync Details
+<img width="850" height="426" alt="image" src="https://github.com/user-attachments/assets/9972dab1-1e15-42f5-8961-69a838b3ecfb" />
 
----
 
 ## Kubernetes Resources
+
+<img width="736" height="185" alt="image" src="https://github.com/user-attachments/assets/611e8478-810a-4864-b50b-f6a3fba1137d" />
+
 
 ### Pods Running
 
@@ -79,7 +87,8 @@ Pods
 
 ### Service (LoadBalancer)
 
-Service
+<img width="857" height="159" alt="image" src="https://github.com/user-attachments/assets/36ea7602-d8c0-4722-befb-7f0163dd49f6" />
+
 
 ---
 
@@ -88,6 +97,8 @@ Service
 ### Initial Version (v1)
 
 Output
+
+<img width="801" height="282" alt="image" src="https://github.com/user-attachments/assets/6bb89421-83be-4276-98da-771398c65363" />
 
 ---
 
