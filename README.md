@@ -108,11 +108,15 @@ Output
 
 GitHub Change
 
+<img width="842" height="406" alt="image" src="https://github.com/user-attachments/assets/998483fe-e177-429d-a0c9-7ab648348c35" />
+
+
 ### Updated Output (v2)
 
 Output Change
 
----
+<img width="794" height="235" alt="image" src="https://github.com/user-attachments/assets/29e37853-024e-4d16-af0e-42e9cb911245" />
+
 
 ## GitOps Workflow
 
