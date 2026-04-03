@@ -29,39 +29,27 @@ Developer → GitHub → ArgoCD → EKS Cluster → Kubernetes
 
 ### EC2 Instance
 
-EC2
-
 <img width="837" height="357" alt="image" src="https://github.com/user-attachments/assets/df5eca7c-380b-4938-a493-c00b813e4a86" />
 
 
 ### EKS Cluster
-
-EKS
 
 <img width="848" height="355" alt="image" src="https://github.com/user-attachments/assets/fb2ec892-7c0c-4986-861a-5ddff88ac9c7" />
 
 
 ### Docker Image
 
-DockerHub Repository
-
 <img width="844" height="350" alt="image" src="https://github.com/user-attachments/assets/4a4a8bf3-4001-41e4-af0e-7de3a4f26976" />
 
 DockerHub
 
-### GitHub Repository
-
-GitHub
+### GitHub Repositor
 
 <img width="848" height="394" alt="image" src="https://github.com/user-attachments/assets/312f02ad-e2f9-4f71-81f3-66bcf00ee67f" />
 
 
 
 ## ArgoCD Setup
-
-### ArgoCD Dashboard
-
-ArgoCD
 
 <img width="870" height="424" alt="image" src="https://github.com/user-attachments/assets/8fdb2fc9-43b5-4268-bfe4-3f5c7fdf8b9d" />
 
@@ -89,14 +77,10 @@ Pods
 
 <img width="857" height="159" alt="image" src="https://github.com/user-attachments/assets/36ea7602-d8c0-4722-befb-7f0163dd49f6" />
 
-
----
-
 ## Application Output
 
 ### Initial Version (v1)
 
-Output
 
 <img width="801" height="282" alt="image" src="https://github.com/user-attachments/assets/6bb89421-83be-4276-98da-771398c65363" />
 
