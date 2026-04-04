@@ -39,24 +39,24 @@ Developer → GitHub → ArgoCD → EKS Cluster → Kubernetes
 
 ### Docker Image
 
-<img width="844" height="350" alt="image" src="https://github.com/user-attachments/assets/4a4a8bf3-4001-41e4-af0e-7de3a4f26976" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f8831e3e-90aa-4555-a284-eb4e899a9639" />
 
 DockerHub
 
 ### GitHub Repositor
 
-<img width="848" height="394" alt="image" src="https://github.com/user-attachments/assets/312f02ad-e2f9-4f71-81f3-66bcf00ee67f" />
+<img width="848" height="394" alt="image" src="https://github.com/user-attachments/assets/7be73ab9-cb37-416a-ae31-c19def706321" />
 
 
 
 ## ArgoCD Setup
 
-<img width="870" height="424" alt="image" src="https://github.com/user-attachments/assets/8fdb2fc9-43b5-4268-bfe4-3f5c7fdf8b9d" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5e558fb9-e89f-45df-9a91-af9982d8b355" />
 
 
 ### Auto Sync Enabled
 
-<img width="843" height="424" alt="image" src="https://github.com/user-attachments/assets/9275a7b5-5b40-479b-ba82-80e9a9994c39" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5c464ee3-e93b-4558-8194-d7b17346c4e4" />
 
 
 ### Sync Details
