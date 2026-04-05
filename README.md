@@ -41,14 +41,6 @@ Developer → GitHub → ArgoCD → EKS Cluster → Kubernetes
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f8831e3e-90aa-4555-a284-eb4e899a9639" />
 
-DockerHub
-
-### GitHub Repositor
-
-<img width="848" height="394" alt="image" src="https://github.com/user-attachments/assets/7be73ab9-cb37-416a-ae31-c19def706321" />
-
-
-
 ## ArgoCD Setup
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5e558fb9-e89f-45df-9a91-af9982d8b355" />
