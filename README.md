@@ -83,12 +83,6 @@ DockerHub
 
 ## GitOps Working Proof
 
-### Code Change (GitHub Commit)
-
-GitHub Change
-
-<img width="842" height="406" alt="image" src="https://github.com/user-attachments/assets/998483fe-e177-429d-a0c9-7ab648348c35" />
-
 
 ### Updated Output (v2)
 
